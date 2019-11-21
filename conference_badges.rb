@@ -1,7 +1,7 @@
 speakers = ["Edsger", "Ada", "Charles", "Alan", "Grace", "Linus", "Matz"]
 counter = 1
-brothers.each do |brother|
-  puts "Hello,  #{}"
+speakers.each do |speakers|
+  puts "Hello, #{speakers}! "
   puts "Stop hitting yourself #{brother}!"
   counter += 1
 end
