@@ -1,4 +1,4 @@
-speakers = ["Tim", "Tom", "Jim"]
+speakers = ["Edsger", "Ada", "Charles", ""Alan", Grace, Linus, and Matz]
 counter = 1
 brothers.each do |brother|
   puts "Hello,  #{}"
